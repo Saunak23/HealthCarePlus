@@ -14,7 +14,9 @@ We show a doctor-patient interaction framework based on Android. Its fabulous ex
 4  Proposed System
 
 We improved our User Interface to make it more convenient for our users. Also the data flow is not very complex so as to make the response time faster. We have used Firebase database for data storage which is convenient and data flow is faster compared to others. When the patient logins the phone number gets stored. The profile is created automatically and the patient can search and book appointments for a particular doctor at his or her desired date and time slot. The appointment is confirmed after payment. He or she gets notification reminders as well. The doctor can manage his or her appointments through the doctor side application by logging in using his phone number and a password given by the admin while registering in the application. The token number is then verified by the doctor using the app and the session starts. After the session the patient can view his or her appointments in their Order Details. Our future development includes online consultation and online prescriptions as well.
+
 5  APP Screenshots
+
 
 <img width="721" height="731" alt="image" src="https://github.com/user-attachments/assets/0578376e-85c6-48c8-8642-107b436cd283" />
 
